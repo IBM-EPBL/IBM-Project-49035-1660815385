@@ -8,7 +8,6 @@ Category: Cloud App Development
 Batch Name : B8-2A4E
 
 ----------------------------------------
-----------------------------------------
 
 Team ID : PNT2022TMID39059
 
@@ -23,7 +22,7 @@ Team member : SHANKAR DAYAL SHARMA S
 Team member : FERDINANT J
 
 ---------------------------------------------
---------------------------------------------
+
 
 Industry Mentor(s) Name : Baradwaj IL
 
@@ -36,7 +35,6 @@ Branch : Computer Science & Engineering
 College : SURYA GROUP OF INSTITTUTIONS
 
 ----------------------------------------------
-----------------------------------------------
 
 ## 🔗 Assignment
 - [Assigment - 1](https://github.com/IBM-EPBL/IBM-Project-49035-1660815385/tree/main/assignments%20%201)
@@ -44,7 +42,7 @@ College : SURYA GROUP OF INSTITTUTIONS
 - [Assigment - 3](https://github.com/IBM-EPBL/IBM-Project-49035-1660815385/tree/main/assignments%203)
 
 -----------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------
+
 
 ## Project Design & Planning
 - [Ideation phase](https://github.com/IBM-EPBL/IBM-Project-49035-1660815385/tree/main/Ideation%20phase)
@@ -54,7 +52,7 @@ College : SURYA GROUP OF INSTITTUTIONS
 - [Project development Phase](https://github.com/IBM-EPBL/IBM-Project-49035-1660815385/tree/main/project%20development%20phase)
 
 --------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
+
 
 ## Authors
 - [@Poovarasan](https://github.com/Poov200)
